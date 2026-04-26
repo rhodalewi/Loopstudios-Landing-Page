@@ -29,7 +29,7 @@ In this challenge, I focused on writing structured, maintainable styles using Sa
 
 ## Links
 
-* Live Site URL: [Loopstudios Landing Page](https://your-live-site-url.com)
+* Live Site URL: [Loopstudios Landing Page](https://rhodalewi.github.io/Loopstudios-Landing-Page/)
 
 ## Author
 
